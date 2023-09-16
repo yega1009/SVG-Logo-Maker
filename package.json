@@ -15,5 +15,11 @@
     "url": "https://github.com/yega1009/SVG-Logo-Maker"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
 }
