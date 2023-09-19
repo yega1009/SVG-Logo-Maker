@@ -50,13 +50,13 @@ function generateLogo() {
             // Based on the shape selected by the user, instantiate the corresponding shape class.
             switch (shape) {
                 case "triangle":
-                    logoShape = new Triangle();
+                    logoShape = new Triangle(shapeColor);
                     break;
                 case "circle":
-                    logoShape = new Circle();
+                    logoShape = new Circle(shapeColor);
                     break;
                 case "square":
-                    logoShape = new Square();
+                    logoShape = new Square(shapeColor);
                     break;
             }
 
