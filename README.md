@@ -1,7 +1,7 @@
 # SVG-Logo-Maker
 
 ## Link to Deployed Application
-<a href="https://drive.google.com/file/d/1R3VYfjYHnMX5cfVnKgfJ5xizLEgJzy0j/view">Walk-through Video</a>
+<a href="https://drive.google.com/file/d/1zMQT2CNHx4zLNzQlFC41waqcjHij8Myx/view">Walk-through Video</a>
 
 ## Description
 
